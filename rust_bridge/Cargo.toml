@@ -1,0 +1,11 @@
+[package]
+name = "u32_rs_bridge"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "u32_rs_bridge"
+crate-type = ["staticlib"]
+
+[dependencies]
+# Fast, safe formatting and terminal coloring if needed
