@@ -1,4 +1,4 @@
-kU32 Architecture Platform Documentation
+U32 Architecture Platform Documentation
 Primary License: AGPLv3
 
 Overview:
